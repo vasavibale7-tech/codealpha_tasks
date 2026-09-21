@@ -37,26 +37,37 @@ CodeAlpha E-Commerce Store
 ├── style.css
 ├── script.js
 │
-├── server.js
-├── package.json
-├── package-lock.json
-└── ecommerce.db
+└── backend
+    ├── server.js
+    ├── package.json
+    ├── package-lock.json
+    └── ecommerce.db
+```
+
 ## How to Run
 
 1. Install Node.js.
 2. Open the project folder in VS Code.
 3. Open the terminal.
-4. Install dependencies:
+4. Go to the backend folder:
+
+```bash
+cd backend
+```
+
+5. Install dependencies:
 
 ```bash
 npm install
-5. Start the backend server:
+```
+
+6. Start the backend server:
 
 ```bash
 node server.js
 ```
 
-6. Open the website in your browser.
+7. Open the website in your browser.
 
 ## Internship Task
 
