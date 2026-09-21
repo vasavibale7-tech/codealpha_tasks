@@ -7,36 +7,28 @@ A basic full-stack e-commerce website developed as part of the CodeAlpha Full St
 - Product listings
 - Product details
 - Shopping cart
-- User registration
-- User login
+- User registration and login
 - Order processing
 - Product search
 - SQLite database
-- Backend API using Express.js
+- Express.js backend
 
 ## Technologies Used
 
-### Frontend
 - HTML
 - CSS
 - JavaScript
-
-### Backend
 - Node.js
 - Express.js
-
-### Database
 - SQLite
 
 ## Project Structure
 
 ```text
 CodeAlpha E-Commerce Store
-│
 ├── index.html
 ├── style.css
 ├── script.js
-│
 └── backend
     ├── server.js
     ├── package.json
@@ -47,7 +39,7 @@ CodeAlpha E-Commerce Store
 ## How to Run
 
 1. Install Node.js.
-2. Open the project folder in VS Code.
+2. Open the project in VS Code.
 3. Open the terminal.
 4. Go to the backend folder:
 
@@ -61,18 +53,14 @@ cd backend
 npm install
 ```
 
-6. Start the backend server:
+6. Start the server:
 
 ```bash
 node server.js
 ```
-
-7. Open the website in your browser.
 
 ## Internship Task
 
 **CodeAlpha – Full Stack Development Internship**
 
 **Task 1: Simple E-Commerce Store**
-
-Developed using HTML, CSS, JavaScript, Node.js, Express.js and SQLite.
