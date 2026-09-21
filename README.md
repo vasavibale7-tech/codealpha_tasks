@@ -29,11 +29,10 @@ CodeAlpha E-Commerce Store
 ├── index.html
 ├── style.css
 ├── script.js
-└── backend
-    ├── server.js
-    ├── package.json
-    ├── package-lock.json
-    └── ecommerce.db
+├── server.js
+├── package.json
+├── package-lock.json
+└── ecommerce.db
 ```
 
 ## How to Run
